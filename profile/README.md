@@ -21,7 +21,7 @@ We are currently working on a variety of exciting projects! Here's a quick overv
 Meet the minds behind **Euxora**:
 
 * [Slyv](https://github.com/zslyv) - Project Lead and Developer
-* [Straky](https://github.com/jefersonfuentes) - Co-Founder and Developer
+* [Straker](https://github.com/strakerbit) - Co-Founder and Developer
 
 ---
 
